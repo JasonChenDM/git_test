@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+var U = "suck";
 export default class Aproject extends Component {
   render() {
     return (
